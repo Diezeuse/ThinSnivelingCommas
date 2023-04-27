@@ -1,0 +1,34 @@
+/* CSS files add styling rules to your content */
+
+.home{
+  background: url(https://media.tenor.com/kHcmsxlKHEAAAAAC/rock-one-eyebrow-raised-rock-staring.gif);
+}
+
+
+.about{
+  background: url(https://media.tenor.com/IgXQnR5EnvMAAAAd/black-guy-suit-black-guy-funny.gif);
+}
+
+.contact{
+  background: url(https://media.tenor.com/97sD3prHJcoAAAAC/funny-memes.gif);
+}
+
+.photo{
+  background: url(https://www.icegif.com/wp-content/uploads/2022/05/icegif-93.gif);
+}
+
+a:hover{
+  background-color: yellowgreen;
+}
+
+img{
+  border: solid 5px black;
+  padding: 5px;
+  margin: 1px;
+  display: flex;
+  justify-content: space;
+}
+
+body{
+  font-family: 'Rubik Iso', cursive;
+}
